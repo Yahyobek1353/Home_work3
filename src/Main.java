@@ -9,7 +9,7 @@ public class Main{
 
         sort(massive);
 
-        System.out.print("Каким стал после сортировки: ");
+        System.out.print("Каким стал после сортировки наш массив: ");
         showout(massive);
     }
     private static void sort(int[] massive)
